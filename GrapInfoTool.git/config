@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+[remote "aochuanliu"]
+	url = https://github.com/aochuanliu/GrapInfoTool
+	fetch = +refs/heads/*:refs/remotes/aochuanliu/*
+[gui]
+	wmstate = normal
+	geometry = 812x427+433+175 171 192
